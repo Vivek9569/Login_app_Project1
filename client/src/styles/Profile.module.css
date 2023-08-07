@@ -1,0 +1,12 @@
+.glass{
+    zoom: 0.75;
+    @apply  w-3/4
+}
+
+.profile_img{
+    @apply w-40 cursor-pointer;
+}
+
+.textbox{
+    @apply w-3/4;
+}
